@@ -1,5 +1,5 @@
 # AlexKing_Final
-Pokedex Project from Java class
+Pokedex Project from Java class.
 This is my final project for my Intro to Java class a few years ago. It simulates a 'Pokedex' program which finds all Pokemon that match whatever combination of 
 criteria the user specifies. For example: It could find all Pokemon that are above 4ft tall, weigh under 100 lbs and are fully evolved. 
 It's important to note this code is by no means 'efficient' or representative of the programmer I am today. When I built this project I hadn't even learned OOP yet.
